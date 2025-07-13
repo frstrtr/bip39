@@ -1,2 +1,5 @@
 node_modules
 bip39-standalone.html
+src/cpp/boost_1_86_0.tar.gz
+src/cpp/cryptopp
+.venv/
